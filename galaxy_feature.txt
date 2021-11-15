@@ -1,5 +1,5 @@
 #galaxy shapes
-spiral
-elliptical
-straight 
-irregular
+spiral_new
+elliptical_new
+straight _new
+irregular_new
