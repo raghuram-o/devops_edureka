@@ -1,5 +1,5 @@
 #galaxy shapes
 spiral
 elliptical
-straight 
+straightbar 
 irregular
