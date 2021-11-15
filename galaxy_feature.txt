@@ -1,5 +1,5 @@
 #galaxy shapes
-spiral
-elliptical
-straightbar 
-irregular
+spiral_new
+elliptical_new
+straightbar_new
+irregular_new
